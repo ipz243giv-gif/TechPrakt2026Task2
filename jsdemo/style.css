@@ -8,3 +8,43 @@ div.user div {
 div.user.selected {
     background-color: greenyellow;
 }
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background-color: #ffffff;
+}
+
+.titles-container {
+    margin-bottom: 20px;
+}
+
+.title {
+    font-size: 16px;
+    margin-bottom: 2px;
+    color: #0066cc;
+    font-weight: bold;
+}
+
+.list-container {
+    width: 100%;
+}
+
+.card-item {
+    padding: 10px 5px;
+    border-bottom: 2px solid #0066cc;
+}
+
+.name {
+    font-size: 16px;
+    font-weight: bold;
+    color: #ff6600;
+}
+
+.age {
+    font-size: 14px;
+}
+
+.description {
+    font-size: 14px;
+}
